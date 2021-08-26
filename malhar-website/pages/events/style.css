@@ -565,7 +565,7 @@ a {
     font-size: 1vw;
     display: inline;
     padding: 1%;
-    margin-left: 4%;
+    margin-inline: 1%;
   }
   a {
     font-family: "Overpass", sans-serif;
@@ -669,8 +669,7 @@ a {
   }
 
   .collapse{
-    padding-left: 8.5%;
-     margin-top: 0.17%;
+    padding-left: 4.5%;
   }
 
 }
